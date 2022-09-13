@@ -15,13 +15,14 @@
 <br>
 </p>
 
+# Resumen
+
+* En el presente artículo se exhibirán los resultados experimentales que se obtuvieron al ejecutar los diferentes tipos de benchmark planteados (enteros, enteros aleatorios, double y double aleatorios), de multiplicación de matrices de manera básica, así mismo realizar su respectivo análisis, comparando los resultados obtenidos entre los distintos nodos de cómputo, evaluar el rendimiento de los nodos frente a diferentes situaciones y sacar las respectivas conclusiones basándose en las gráficas obtenidas por cada miembro del equipo.
+
+
 # Introducción
 
 * Debido a que existen aplicaciones que demandan un alto rendimiento , se requiere tener respuestas rápidas en tiempo razonable y también poder procesar grandes volúmenes de información de manera efectiva, para esto se necesita poder Medir las capacidades de los diferentes dispositivos. Teniendo en cuenta lo anterior, se utilizaron las siguientes librerías para la creación de programas (benchmarks) con la capacidad de multiplicar matrices y medir el tiempo de su ejecución:
-
-* time.h: El encabezado time.h define cuatro tipos de variables, dos macro y varias funciones para manipular la fecha y la hora.
-stdlib.h: Es el archivo de cabecera de la biblioteca estándar de propósito general del lenguaje de programación C. Contiene los prototipos de funciones de C para gestión de memoria dinámica, control de procesos y otras.
-* stdio.h: "standard input-output header". Es el archivo de cabecera que contiene las definiciones de las macros, las constantes, las declaraciones de funciones de la biblioteca estándar del lenguaje de programación C para hacer operaciones, estándar, de entrada y salida, así como la definición de tipos necesarios para dichas operacione
 
 Teniendo en cuenta que un benchmark es una técnica utilizada para medir el rendimiento de un sistema o uno de sus componentes. Los cuatro benchmarks que se utilizaron para medir el rendimiento de las computadoras fueron los siguientes:
 
@@ -32,11 +33,6 @@ Teniendo en cuenta que un benchmark es una técnica utilizada para medir el rend
 
 
 Los anteriores benchmarks se ejecutaron en los computadores de cada miembro del equipo de trabajo y se obtuvieron los tiempos de ejecución medidos en segundos para cada uno de los benchmarks en los diferentes nodos de trabajo. Para ver las diferencias que hay entre los cuatro benchmarks desarrollados se realizarán diferentes gráficas para poder tener una mejor visión de los resultados de una manera gráfica.
-
-   
-# Resumen
-
-* En el presente artículo se exhibirán los resultados experimentales que se obtuvieron al ejecutar los diferentes tipos de benchmark planteados (enteros, enteros aleatorios, double y double aleatorios), de multiplicación de matrices de manera básica, así mismo realizar su respectivo análisis, comparando los resultados obtenidos entre los distintos nodos de cómputo, evaluar el rendimiento de los nodos frente a diferentes situaciones y sacar las respectivas conclusiones basándose en las gráficas obtenidas por cada miembro del equipo.
 
 # Desarrollo
 
