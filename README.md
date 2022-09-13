@@ -57,5 +57,7 @@ Se utilizó un script de automatización programado en Perl y se obtuvieron 30 d
 
 
 # Referencias
-* Eigen. (2022, 13 junio). Eigen. Recuperado 20 de agosto de 2022, de https://eigen.tuxfamily.org/index.php?title=Main_Page
-* Math Exercises & Math Problems: Matrix Equations. (s. f.). Math Exercises. Recuperado 20 de agosto de 2022, de https://www.math-exercises.com/matrices/matrix-equations
+* RENDIMIENTO, DESEMPEÑO Y MÉTRICAS PC. (2012, 5 julio). Webs. http://enredados2012.blogspot.com/2012/09/rendimiento-desempeno-y-metricas-pc.html
+* Qué es un benchmark. (s. f.). Tableau. Recuperado 12 de septiembre de 2022, de https://www.tableau.com/es-es/learn/articles/what-is-a-benchmark
+* C Library -. (s. f.). Recuperado 12 de septiembre de 2022, de https://www.tutorialspoint.com/c_standard_library/time_h.htm
+
