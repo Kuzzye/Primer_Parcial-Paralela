@@ -51,6 +51,11 @@ Se utilizó un script de automatización programado en Perl y se obtuvieron 30 d
 
 # Conclusiones
 
+* Con las gráficas obtenidas se puede analizar que cada benchmark es distinto y, por lo tanto, su rendimiento también, los resultados varían dependiendo de las cargas y la capacidad de cómputo de cada nodo, el nodo con procesador con el rendimiento más bajo, muestra en sus cargas un rendimiento bastante bajo para un procesador que en términos de Ghz es más veloz, pero demuestra todo lo contrario, esta observación se da, ya que el procesador es algo antiguo y, sin embargo, los demás procesadores que tienen menos velocidad de Ghz, pero son más modernos presentan mejor rendimiento.
+* En algunos casos se puede observar que la última carga tiene un valor promedio del tiempo más bajo. Esto se presenta específicamente en las gráficas 3 y 4 las cuales son con double.
+* Se destaca la utilidad de los benchmark a la hora de medir rendimiento. Si bien se puede definir un benchmark como una aplicación de juguete que no tiene una utilidad per se, no significa que no ayude. El tener ese tipo de aplicaciones permite preparar terreno para unas más potentes y especializadas. En el caso de una empresa, el medir el rendimiento con ese tipo de aplicaciones permite reducir costos de mal funcionamiento o de errores reales en práctica, lo que permite que se pueda garantiza eficiencia y calidad en los productos o servicios que ofrezca.
+* Con respecto a la modularización de los algoritmos, cabe resaltar las ventajas de esa arquitectura de construcción de software. Debido a que el manejo por partes permite tomar y reemplazar sólo una pieza del total, aquello combinado con un lanzador múltiple permite que se hagan varias pruebas evaluando cuál se adapta mejor a los requerimientos. Al comparar esa manera de creación de código con una arquitectura monolítica, demuestra que a la hora de optimizar un sistema no es sólo cambiar piezas de hardware a unas más potentes, sino que la forma y calidad de construcción del software es igualmente importante y se demuestran con los resultados y la discusión de los mismos.
+
 
 # Referencias
 * RENDIMIENTO, DESEMPEÑO Y MÉTRICAS PC. (2012, 5 julio). Webs. http://enredados2012.blogspot.com/2012/09/rendimiento-desempeno-y-metricas-pc.html
