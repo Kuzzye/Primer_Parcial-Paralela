@@ -41,7 +41,7 @@ Para la toma de rendimiento se utilizaron 4 nodos con las siguientes especificac
 * Nodo David: AMD Ryzen 7 3700U @2.30GHz
 * Nodo2 David: Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
 * Nodo Kevin: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
-* Nodo Andres: 
+* Nodo Andres: Intel® Core™ i5-5200U CPU @ 2.20GHz × 4
 
 Los algoritmos al ser programas modularizados tienen en común las siguientes características, cuentan con el fichero mm_lib.c (inicialización, multiplicación, e impresión de matrices), una interfaz llamada mm_lib.h que recibe y define las funciones de la matriz y finalmente los ficheros principales mm_main_int.c, mm_main_int_rnd.c, mm_main_double.c y mm_main_double_rnd.c los cuales ejecutan las funciones mencionadas anteriormente. Un fichero para la medición del tiempo y su debida interfaz, finalmente un script Makefile que facilita la compilación de forma automatizada de cada algoritmo al componerse de varios ficheros de código fuente.
 
